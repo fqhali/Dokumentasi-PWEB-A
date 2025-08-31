@@ -4,7 +4,7 @@
 ------------------------------------------
 ## Pertemuan 1 Typewriting Skill
 
-Saya sudah bisa menguasai untuk bisa mengetik dengan 10 jari yang kemudian saya melakukan tes sebanyak 5 kali berturut-turut. Hasil yang didapatkan sebagai berikut
+Saya sudah bisa menguasai untuk bisa mengetik dengan 10 jari yang kemudian saya melakukan tes sebanyak 5 kali berturut-turut. Hasil yang didapatkan sebagai berikut:
 
 Tes pertama
 ![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/5f1b905d1c8e64b41a9e8c8bbcd986c26d827788/asset/Screenshot%20(121).png)
