@@ -22,8 +22,9 @@ Tes kelima
 ![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/5f1b905d1c8e64b41a9e8c8bbcd986c26d827788/asset/Screenshot%20(126).png)
 
 Didapatkan bahwa rata-rata mengetik saya dengan 10 jari adalah sekitar 95,8 WPM
+
 ------------------------------------------------------
-## Pertemua 2 Membuat Web Profil Sederhana
+## Pertemuan 2 Membuat Web Profil Sederhana
 
 Membuat profil web yang memuat elemen heading, paragraf, image, list, tabel, form, link.
 
