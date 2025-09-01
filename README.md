@@ -22,4 +22,15 @@ Tes kelima
 ![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/5f1b905d1c8e64b41a9e8c8bbcd986c26d827788/asset/Screenshot%20(126).png)
 
 Didapatkan bahwa rata-rata mengetik saya dengan 10 jari adalah sekitar 95,8 WPM
+------------------------------------------------------
+## Pertemua 2 Membuat Web Profil Sederhana
 
+Membuat profil web yang memuat elemen heading, paragraf, image, list, tabel, form, link.
+
+Berikut adalah tampilan web sederhana yang telah saya buat
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/6718fdf8e6ed550777542eb0c9c51f33ec857d9a/asset/Screenshot%20(128).png)
+
+Web bisa dilihat dengan link berikut:
+
+[Link Website](https://fqhali.github.io/profilhtml/)
