@@ -35,3 +35,16 @@ Berikut adalah tampilan web sederhana yang telah saya buat
 Web bisa dilihat dengan link berikut:
 
 [Link Website](https://fqhali.github.io/profilhtml/)
+
+----------------------
+## Pertemuan Minggu-3 Membuat Tabel Form dan Frame Sederhana
+
+Mengisi website dengan tabel, form, dan frame yang sederhana yang belum menggunakan CSS dengan mengikuti apa yang ada di blogspot.
+
+Berikut tampilannya
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/c116d9a9c5007e65a451d7ff98a7fef3438a051f/asset/Screenshot%20(138).png)
+
+Dengan link web yang masih sama
+
+[Link Website](https://fqhali.github.io/profilhtml/)
