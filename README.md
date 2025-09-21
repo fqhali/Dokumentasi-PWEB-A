@@ -48,3 +48,16 @@ Berikut tampilannya
 Dengan link web yang masih sama
 
 [Link Website](https://fqhali.github.io/profilhtml/)
+
+---------------------
+## Pertemuan Minggu-4 Mempelajari tentang CSS
+
+Belajar CSS dari W3SCHOOLS kemudian mengaplikasikannya ke website dengan meniru tampilan apa yang di tugas seperti course tetapi saya sedikit memodifikasinya. 
+
+Berikut adalah tampilannya
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/df8f56b599c5d381d5090d8a6fe78f6b160ce48c/asset/Screenshot%202025-09-21%20194538.png)
+
+Dan berikut adalah link websitenya
+
+[Link Website](https://fqhali.github.io/profilhtml/)
