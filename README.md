@@ -61,3 +61,20 @@ Berikut adalah tampilannya
 Dan berikut adalah link websitenya
 
 [Link Website](https://fqhali.github.io/profilhtml/)
+
+---------------------
+## Pertemuan Minggu-5 Mempelajari JavaScript
+
+Belajar JavaScript dengan mengerjakan tugas sebagai berikut:
+
+- Membuat form registrasi yang memiliki aturan
+- Membuat pencari kecamatan menggunakan kode pos
+- Membuat Dynamic Drop Down
+
+Hasilnya sebagai berikut:
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/2ba9990825553026df34a32f8198d20fda0f6cc0/asset/Screenshot%202025-09-28%20231523.png)
+
+Kemudian bisa dicoba di link berikut:
+
+[Link Website](https://fqhali.github.io/profilhtml/)
+
