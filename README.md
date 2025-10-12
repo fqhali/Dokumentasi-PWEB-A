@@ -78,3 +78,29 @@ Kemudian bisa dicoba di link berikut:
 
 [Link Website](https://fqhali.github.io/profilhtml/)
 
+-----------------------
+## Pertemuan Minggu-6 Mempelajari Bootstrap
+
+Membuat login page sederhana menggunakan Bootstrap yaitu sama seperti CSS tetapi menggunakan desain yang ada dari internet.
+
+Tampilan Web seperti berikut:
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/fc66b5a92ca569bdd30cfa58a0610219acd7daf0/asset/Screenshot%20(151).png)
+
+Web dapat bisa dilihat di link berikut
+
+[Link Website](https://fqhali.github.io/bootstraptes/)
+
+----------------------------
+## Pertemuan Minggu-7 Mempelajari Ajax
+
+Membuat form page menggunakan ajax yang memunculkan tampilan terima kasih saat submit tanpa merefreshnya.
+
+Tampilan web:
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/fc66b5a92ca569bdd30cfa58a0610219acd7daf0/asset/Screenshot%20(150).png)
+
+Web dapat bisa dilihat dengan link berikut:
+
+[Link Website](https://fqhali.github.io/ajaxtest/)
+
