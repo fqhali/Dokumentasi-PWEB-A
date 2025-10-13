@@ -104,3 +104,24 @@ Web dapat bisa dilihat dengan link berikut:
 
 [Link Website](https://fqhali.github.io/ajaxtest/)
 
+------------------------------
+## Pertemuan Minggu-8 ETS dengan Project
+
+Membuat landing page mengenai jasa travel dengan meliputi 
+1. Header / Hero Section
+2. Benefit Section
+3. Social Proof / Testimoni
+4. Detail Produk / Penjelasan Layanan
+5. Offer / Promo (opsional)
+6. Formulir / Lead Capture
+7. FAQ (Frequently Asked Questions)
+8. Footer
+
+Tampilan Web akan seperti ini:
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/4529fa5b14f1da9a5cdc34cd19850ad0152e05f8/asset/Screenshot%20(152).png)
+
+Website bisa dilihat menggunakan link berikut:
+
+[Link Website](https://fqhali.github.io/projectETS/)
+
