@@ -125,3 +125,24 @@ Website bisa dilihat menggunakan link berikut:
 
 [Link Website](https://fqhali.github.io/projectETS/)
 
+------------------------
+## Pertemuan Minggu-9 Mempelejari PHP
+
+Saya membuat landing page pendaftaran yang mirip seperti link tutorial yang telah diberikan, saya hanya mengubahnya sedikit dan menambahkan CSS dan Bootstrap. Kemudian, saya hanya membuat landing page pendaftaran sederhana yang meliputi halaman utama, list yang sudah mendaftar dan form pendaftarannya.
+
+<br>
+Berikut adalah halaman utama dari Websitenya
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/8d7dfa5825fd4eeff246366f7b28881ce366ca84/asset/Screenshot%20(163).png)
+
+<br>
+Berikut adalah tampilan list pendaftarnya
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/8d7dfa5825fd4eeff246366f7b28881ce366ca84/asset/Screenshot%20(164).png)
+<br>
+Dan berikut adalah tampilan formulir pendaftarannya
+
+![image alt](https://github.com/fqhali/Dokumentasi-PWEB-A/blob/8d7dfa5825fd4eeff246366f7b28881ce366ca84/asset/Screenshot%20(165).png)
+
+Karena saya menjalankannya di XAMPP Server yang menggunakan API mysqli jadi saya hanya bisa memberikan source codenya saja di link berikut:
+[Link Source Code](https://github.com/fqhali/Mencoba-PHP)
